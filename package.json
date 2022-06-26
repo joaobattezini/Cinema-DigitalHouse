@@ -1,0 +1,15 @@
+{
+  "name": "cine-house",
+  "version": "1.0.0",
+  "main": "cinema.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodeman": "^1.1.2"
+  },
+  "devDependencies": {},
+  "description": ""
+}
